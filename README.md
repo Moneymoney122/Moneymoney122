@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a british developer currently learning HTML and Python, and I'm making some random things on here
+- I'm a british developer currently learning HTML and Python, and I'm making some random things on here
+
+- Pronouns: he/him
+
+- If you want to contact me, my preffered way is twitter: @chandler_hacker. Or you could email me using the email in my bio.
