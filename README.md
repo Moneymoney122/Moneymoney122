@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a british developer currently learning HTML and Python, and I'm making some random things on here
+- I'm a british developer currently learning HTML, Python and Bash.
+
+- I'm making some random things on here
 
 - Pronouns: he/him
 
