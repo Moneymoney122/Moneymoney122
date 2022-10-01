@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - Pronouns: he/him
 
-- If you want to contact me, my preffered way is twitter: @chandler_hacker. Or you could email me using the email in my bio.
+- If you want to contact me, my preffered way is twitter: @chandler_hacker. Or you could email me using the email on my profile.
