@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 - Pronouns: he/him
 
 - If you want to contact me, my preffered way is twitter: @chandler_hacker, or you could email me using the email on my profile.
+
+- Fun fact: I use Arch Linux btw
+
+- I like iOS Jailbreaking
+
+- Headphone jack enjoyer
