@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 - Headphone jack enjoyer
 
-- My other website: https://clic.ly/moneymoney122
+- My website: https://clic.ly/moneymoney122
