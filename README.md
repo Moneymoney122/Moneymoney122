@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - I'm making some random things on here
 
+- I'm currently working on [boot-script](https://github.com/moneymoney122/boot-script)
+
 - Pronouns: he/him
 
 - If you want to contact me, my preffered way is twitter: @chandler_hacker, or you could email me using the email on my profile.
