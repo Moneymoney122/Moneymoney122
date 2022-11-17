@@ -1,6 +1,8 @@
 ### 'Ello bruv, it's a splendid day innit 👋 ☕️ 🇬🇧
 
-![This is an image width=100 height=75](https://raw.githubusercontent.com/Moneymoney122/Moneymoney122/main/Moneymoney122.jpg)
+<img src="Moneymoney122.jpg" alt="Five Pound Note"
+     width="321" 
+     height="244" />
 
 <!--
 **Moneymoney122/Moneymoney122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
