@@ -1,5 +1,7 @@
 ### 'Ello bruv, it's a splendid day innit 👋 ☕️ 🇬🇧
 
+Moneymoney122
+
 <img src="Moneymoney122.jpg" alt="Five Pound Note"
      width="100" 
      height="85" />
@@ -39,4 +41,6 @@ Here are some ideas to get you started:
 
 - My website: https://clic.ly/moneymoney122
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneymoney122&theme=midnight-purple&layout=compact) ![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneymoney122&theme=midnight-purple)
+
+![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&theme=midnight-purple)
