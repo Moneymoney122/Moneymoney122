@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&theme=midnight-purple&show_icons=true)
 
-![Moneymoney122's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moneymoney122&theme=midnight-purple)
+![Moneymoney122's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moneymoney122&layout=compact&theme=midnight-purple)
