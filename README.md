@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - I'm making some random things on here
 
-- I'm currently working on: [boot-script](https://github.com/moneymoney122/boot-script)
+- I'm currently working on: [boot-script](https://github.com/moneymoney122/boot-script), [repo](https://github.com/moneymoney122/repo) and [checkm8-usb](https://github.com/moneymoney122/checkm8-usb)
 
 - Pronouns: he/him
 
