@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 - My website: https://clic.ly/moneymoney122
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneymoney122&theme=midnight-purple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneymoney122&theme=midnight-purple)
 
-![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&theme=midnight-purple&layout=compact)
+![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&theme=midnight-purple)
