@@ -1,6 +1,6 @@
 ### 'Ello bruv, it's a splendid day innit 👋 ☕️ 🇬🇧
 
-Moneymoney122
+Moneymoney122 (James Chandler)
 
 <img src="Moneymoney122.jpg" alt="Five Pound Note"
      width="100" 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - Fun fact: I use Arch Linux btw. - I like iOS Jailbreaking - Headphone jack enjoyer - My favourite colour is purple
 
-- If you want to contact me, my preffered way is twitter: @chandler_hacker, or you could email me using the email on my profile.
+- If you want to contact me, my preferred way is twitter: @chandler_hacker, or you could email me using the email on my profile.
 
 - My website: https://clic.ly/moneymoney122
 
