@@ -1,5 +1,7 @@
 ### 'Ello bruv, it's a splendid day innit 👋 ☕️ 🇬🇧
 
+<img src="https://github.com/Moneymoney122/Moneymoney122/blob/main/Moneymoney122.png?raw=true" alt="Moneymoney122's Profile Picture">
+
 <!--
 **Moneymoney122/Moneymoney122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +33,8 @@ Here are some ideas to get you started:
 
 - Headphone jack enjoyer
 
+- My favourite colour is purple
+
 - My website: https://clic.ly/moneymoney122
+
+[![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
