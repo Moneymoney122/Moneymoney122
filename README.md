@@ -1,6 +1,6 @@
 ### 'Ello bruv, it's a splendid day innit 👋 ☕️ 🇬🇧
 
-![This is an image](https://raw.githubusercontent.com/Moneymoney122/Moneymoney122/main/Moneymoney122.jpg)
+![This is an image](https://raw.githubusercontent.com/Moneymoney122/Moneymoney122/main/Moneymoney122.jpg width=100 height=75)
 
 <!--
 **Moneymoney122/Moneymoney122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
