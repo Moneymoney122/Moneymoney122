@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneymoney122&layout=compact&border_color=2E1A47&bg_color=DEG,39ff14,2E1A47&theme=midnight-purple)
 
-![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&border_color=2E1A47&border_color=2E1A47&bg_color=DEG,39ff14,2E1A47&theme=midnight-purpleshow_icons=true)
+![Moneymoney122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moneymoney122&border_color=2E1A47&bg_color=DEG,39ff14,2E1A47&theme=midnight-purpleshow_icons=true)
 
-![Moneymoney122's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moneymoney122&border_color=2E1A47&border_color=2E1A47&bg_color=DEG,39ff14,2E1A47&theme=midnight-purple)
+![Moneymoney122's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moneymoney122&border_color=2E1A47&bg_color=DEG,39ff14,2E1A47&theme=midnight-purple)
