@@ -2,11 +2,6 @@
 
 Moneymoney122 (James Chandler)
 
-<img src="Moneymoney122.jpg" alt="Five Pound Note"
-     width="100" 
-     height="85" />
-
-<!--
 **Moneymoney122/Moneymoney122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
