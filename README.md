@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - If you want to contact me, my preferred way is twitter: @chandler_hacker, or you could email me using the email on my profile.
 
-- My website: https://clic.ly/moneymoney122
+- My website: ~https://clic.ly/moneymoney122~ *now historical, has been down for some months now... see:* https://moneymoney122.github.io *instead*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneymoney122&layout=compact&border_color=2E1A47&bg_color=DEG,013220,2E1A47&theme=midnight-purple)
 
