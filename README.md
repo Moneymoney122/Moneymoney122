@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 - I'm a british developer currently learning HTML, Python and Shell.
 
-- Pronouns: he/him
-
-- I'm making some random things on here - I'm currently working on: [boot-script](https://github.com/moneymoney122/boot-script), [repo](https://github.com/moneymoney122/repo), [checkm8-usb](https://github.com/moneymoney122/checkm8-usb) and [moneymoney122.github.io](https://github.com/Moneymoney122/moneymoney122.gitub.io)
-
-- Fun fact: I use Arch Linux btw. - I like iOS Jailbreaking - Headphone jack enjoyer - My favourite colour is purple
-
-- If you want to contact me, my preferred way is twitter: @chandler_hacker, or you could email me using the email on my profile.
-
 - My website: ~https://clic.ly/moneymoney122~  *has been down for some months now... see:* https://moneymoney122.github.io *instead*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneymoney122&layout=compact&border_color=2E1A47&bg_color=DEG,013220,2E1A47&theme=midnight-purple)
